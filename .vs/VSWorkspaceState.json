@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DeepBlue",
+    "\\DeepBlue\\ClientApp",
+    "\\DeepBlue\\ClientApp\\src",
+    "\\DeepBlue\\ClientApp\\src\\app",
+    "\\DeepBlue\\ClientApp\\src\\app\\counter",
+    "\\DeepBlue\\ClientApp\\src\\environments",
+    "\\DeepBlue\\wwwroot"
+  ],
+  "SelectedNode": "\\DeepBlue\\ClientApp\\src\\app\\counter\\counter.component.spec.ts",
+  "PreviewInSolutionExplorer": false
+}
